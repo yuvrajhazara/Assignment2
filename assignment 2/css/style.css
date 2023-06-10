@@ -1,0 +1,70 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0px;
+    background-color: #89aa6a;
+    padding: 0%;
+}
+
+
+
+
+.song-title h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: black;
+    padding: 5%;
+    background-image: linear-gradient( rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)), url("images/1D_-_photoshoot.webp");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    font-size: 50px;
+      }
+
+header{
+    background-image: url("images/1D_-_photoshoot.webp");
+    background-size: cover;
+} 
+
+h2,h3,h4,h5,h6{
+    font-family: 'Dosis', sans-serif;
+    font-size: 22px;
+    line-height: 1.2;
+    padding: 0%;
+    margin-top: 0%;
+   
+    margin-bottom: 0%;
+    color: #cd6114;
+    text-align: center;
+}
+
+
+
+
+
+p{
+    font-family: 'Dosis', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    line-height: 1.5;
+    padding: 0;
+   
+    margin-bottom: 20px;
+    color: #814cd0;
+    text-align: center;
+    
+}   
+
+
+
+.footer p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    color: black;
+}
